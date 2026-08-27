@@ -1,0 +1,14 @@
+{
+  "name": "cli-regression",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:api": "playwright test --api",
+    "test:headed": "playwright test --headed",
+    "test:install": "playwright install chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}

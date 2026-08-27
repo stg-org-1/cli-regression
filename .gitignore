@@ -1,0 +1,10 @@
+# coderoi:begin
+# CodeROI local state (managed by `coderoi bootstrap` - do not edit)
+.coderoi/
+# coderoi:end
+
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
