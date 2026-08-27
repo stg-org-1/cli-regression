@@ -7,3 +7,5 @@ Second commit on the same pull request, to exercise follow-up attribution on an 
 New human commit
 
 Second human commit
+
+Third commit on the same pull request.
